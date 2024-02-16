@@ -1,0 +1,12 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+# VS Code
+/.vscode*
+*.code-workspace
+.vshistory/
+
+# Repo specific - Chroma
+/data/chroma/*
